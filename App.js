@@ -20,7 +20,7 @@ import RNFetchBlob from 'rn-fetch-blob';
 
 const App = () => {
   const REMOTE_IMAGE_PATH =
-    'https://innerdotsbucket.s3.ap-south-1.amazonaws.com/images/rn_image_picker_lib_temp_cb138602-e1e3-4488-840f-a31f16b4921e.jpg';
+    'paste your url image of object from aws-s3-bucket'
   const checkPermission = async () => {
     // Function to check the platform
     // If iOS then start downloading
